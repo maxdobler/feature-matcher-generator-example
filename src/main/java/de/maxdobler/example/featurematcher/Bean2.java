@@ -1,7 +1,10 @@
 package de.maxdobler.example.featurematcher;
 
+import ru.yandex.qatools.processors.matcher.gen.annotations.GenerateMatcher;
+
 public class Bean2 {
 
+    @GenerateMatcher
     private Long id;
     private String desc;
 
