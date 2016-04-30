@@ -1,1 +1,1 @@
-# feature-matcher-generator-example
+Example how to use the [Hamcrest Feature Matcher Generator](https://github.com/yandex-qatools/hamcrest-pojo-matcher-generator)
